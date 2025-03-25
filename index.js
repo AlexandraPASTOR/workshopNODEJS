@@ -3,6 +3,6 @@ import chalk from "chalk";
 console.log(
 	chalk.blue("Thibault "),
 	chalk.red("Nathan "),
-	chalk.yellow("Messica "),
+	chalk.yellow("Alexandra "),
 	chalk.green("Dave"),
 );
