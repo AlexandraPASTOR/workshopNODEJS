@@ -7,7 +7,7 @@
 	"scripts": {
 		"start": "node index.js"
 	},
-	"git repository": "https://github.com/AlexandraPASTOR/workshopNODE.git",
+	"git repository": "https://github.com/AlexandraPASTOR/workshopNODEJS.git",
 	"author": "alexandra",
 	"license": "ISC",
 	"dependencies": {
