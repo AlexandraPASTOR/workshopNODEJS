@@ -1,0 +1,16 @@
+{
+	"name": "wilders",
+	"version": "1.0.0",
+	"description": "workshop node",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"git repository": "https://github.com/AlexandraPASTOR/workshopNODE.git",
+	"author": "alexandra",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^5.4.1"
+	}
+}
